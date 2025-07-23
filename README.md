@@ -23,3 +23,7 @@ Interactive web app to generate reusable prompt + context templates for App Deve
 ```bash
 npm install
 ```
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE) © 2025 Codewithabbam.
